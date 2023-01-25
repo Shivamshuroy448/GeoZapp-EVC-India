@@ -20,7 +20,7 @@ There arenâ€™t many charging facilities for electric vehicles (EVs). If you donâ
 
 ## Other Resources to Our Application
 
-You can find a <b>Blog</b> on the Journey and what we have learnt on https://piyushkumar000018.medium.com/geozapp-evc-india-5306925b03d0
+You can find a <b>Blog</b> on the Journey and what we have learnt on https://medium.com/@shivamshuroye20cse448/geozapp-evc-india-ce7760adcb0f
 
 You can follow us on Our Social Media Handles where we post our Journey : 
 
